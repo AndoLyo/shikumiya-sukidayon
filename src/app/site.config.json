@@ -1,0 +1,43 @@
+{
+  "templateId": "clean-arch",
+  "plan": "otameshi",
+  "orderId": "order_1776272964427_xeo7iu",
+  "siteUrl": "https://shikumiya-sukidayon.vercel.app",
+  "company": {
+    "name": "しくみん",
+    "tagline": "",
+    "description": "",
+    "phone": "",
+    "email": "ryoya112@gmail.com",
+    "address": "",
+    "hours": "",
+    "since": "",
+    "ceo": "",
+    "bio": "",
+    "domain": "shikumiya-sukidayon.vercel.app"
+  },
+  "projects": [],
+  "strengths": [],
+  "style": {
+    "colors": {
+      "primary": "#333333",
+      "accent": "#999999",
+      "background": "#FFFFFF",
+      "text": "#333333",
+      "textMuted": "#999999",
+      "border": "#E5E5E5"
+    },
+    "fonts": {
+      "heading": "'Noto Sans JP', sans-serif",
+      "body": "'Noto Sans JP', sans-serif"
+    },
+    "sizes": {
+      "heading": "lg",
+      "body": "md"
+    },
+    "weights": {
+      "heading": "light",
+      "body": "normal"
+    }
+  }
+}
